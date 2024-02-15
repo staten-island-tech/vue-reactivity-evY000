@@ -1,8 +1,18 @@
 .img{
     height:200px;
     width:275px;
-}
-.text{
+    
+  }
+  .text{
    text-align: center;
-
-}
+   color: skyblue;
+  }
+  .btn{
+    height: 30px;
+    width:60px
+  }
+  .Card{
+  
+    display: inline-block;
+    text-align: center;
+  }
